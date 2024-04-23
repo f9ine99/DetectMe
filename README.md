@@ -14,7 +14,7 @@ Safeguard your website from unauthorized changes and ensure uninterrupted uptime
 
 1. **Clone the Repository:** 
     ```bash
-    git clone https://github.com/f9ine99/DetectMe.git
+    git clone https://github.com/f9ine99/Detectify.git
     ```
 
 2. **Run the Application:** 
